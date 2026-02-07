@@ -1,0 +1,15 @@
+{
+  "originHash" : "ae385e53c2c4b0a44077b07d5d774706ba18c65a431026f3a4671dbbcb575ff0",
+  "pins" : [
+    {
+      "identity" : "modern-otp",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/MahmoudAlaa92/Modern-OTP.git",
+      "state" : {
+        "revision" : "f0e656d550d2abb798f01510a81faefae74f2f28",
+        "version" : "1.0.2"
+      }
+    }
+  ],
+  "version" : 3
+}
