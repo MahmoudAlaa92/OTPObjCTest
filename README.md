@@ -8,6 +8,23 @@ Complete guide for integrating Modern-OTP into your Objective-C iOS project.
   <img src="https://img.shields.io/badge/SMS-Auto--Read-green" alt="SMS Auto-Read">
 </p>
 
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/041979de-d31f-4414-9332-1152861244cc"
+    width="200"
+    height="300"
+    alt="OTP Demo 1"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github.com/user-attachments/assets/6653d812-5dcf-4811-b8e6-52c810ebf50b"
+    width="200"
+    height="300"
+    alt="OTP Demo 2"
+  />
+</p>
+
+****
 ## 📱 Features
 
 - ✅ **Full Objective-C Support** - Works seamlessly in pure Objective-C projects
